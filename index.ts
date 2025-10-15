@@ -1,0 +1,1 @@
+console.log("Hell! My first ts code.")
